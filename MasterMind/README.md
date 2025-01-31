@@ -74,5 +74,5 @@ You are MasterMind!
 This project is free to use under the **MIT License**.
 
 ## Thank you
-[My-pyNakama](https://github.com/abhinandan2540)
+[Author](https://github.com/abhinandan2540)
 
