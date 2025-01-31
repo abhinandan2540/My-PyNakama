@@ -17,6 +17,6 @@ Python Voice Recorder
   and __frquency*duration__ = **Total number of audio samples**
 
   --------------------------------------------------------------------------------
-  Thank You
-  My-pyNakama
+  ## Thank You
+  [Author](https://github.com/abhinandan2540)
   
