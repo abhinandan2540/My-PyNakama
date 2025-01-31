@@ -18,5 +18,5 @@ output=demoji.findall(text)
 print(output)
 ```
 
-Thank You
-My-pyNakama
+## Thank You
+[Author](https://github.com/abhinandan2540)
