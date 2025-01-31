@@ -30,4 +30,3 @@ def MasterMind(guess_chance: int):
 
 
 output = MasterMind(5)
-print(output)
