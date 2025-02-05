@@ -81,4 +81,6 @@ This project is open-source and free to use.
 ---
 
 Enjoy recording your screen! 🚀
+## Thank You
+[Author](https://github.com/abhinandan2540)
 
