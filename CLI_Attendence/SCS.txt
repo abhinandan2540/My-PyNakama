@@ -1,0 +1,7 @@
+[
+    {
+        "student_name": "abhi",
+        "student_subject": "phy",
+        "student_total_leave": 1
+    }
+]
