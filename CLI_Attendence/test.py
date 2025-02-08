@@ -29,7 +29,7 @@ def sendStudentEmails(student_name, student_subject, student_total_leave):
     msg["To"] = reciever_mail
     msg["Subject"] = "warning!!! leaving exceeded!!!"
     msg.attach(MIMEText(
-        f"{student_name} for subject {student_subject} exceeded limit of {student_total_leave} leave"))
+        f"{student_name} for subject {student_subject} exceeded limit of 3 leave, his total leave :  {student_total_leave}"))
 
     try:
         server = smtplib.SMTP("smtp.gmail.com", 587)
