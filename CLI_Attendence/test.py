@@ -28,6 +28,18 @@ def addStudentCredentials(student_name, student_subject, student_total_leave):
     print("student credentials added...")
 
 
+def updateStudentCredentials():
+    studentName = input("Enter student name :")
+    for student in students:
+        if student['student_name'] == studentName:
+            student['student_subject'] = input("student_subject :")
+            student['student_total_leave'] = int(
+                input("student_total_leave : "))
+            save_data()
+        else:
+            print(f"{studentName} not found")
+
+
 def viewStudentCredentials():
     if students:
         for student in students:
@@ -43,6 +55,8 @@ def main():
                         help="add_student_credentials")
     parser.add_argument("--view", action="store_true",
                         help="view_student_credentials")
+    parser.add_argument("--update", action='store_true',
+                        help="update_student_credentials")
     parser.add_argument("--student_name", type=str, help="add_student_name")
     parser.add_argument("--student_subject", type=str,
                         help="add_student_subject")
@@ -55,6 +69,8 @@ def main():
             args.student_name, args.student_subject, args.student_total_leave)
     elif args.view:
         viewStudentCredentials()
+    elif args.update:
+        updateStudentCredentials()
     else:
         print(parser.print_help())
 
