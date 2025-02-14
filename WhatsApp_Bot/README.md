@@ -73,11 +73,6 @@ My-PyNakama/
 
 ---
 
-## 🎥 **Live Demo**
-*(Attach a demo video or screenshots of the bot in action!)*
-
----
-
 ## 🙌 **Contributions & Feedback**
 Feel free to fork, modify, and contribute! Drop your feedback and feature suggestions. 🚀
 
