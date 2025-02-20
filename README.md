@@ -45,7 +45,7 @@ Ensure you have the following installed:
 1. Open your terminal.
 2. Clone the repository using:
    ```bash
-   git clone https://github.com/your-username/MyPyNakama.git
+   git clone https://github.com/**********/MyPyNakama.git
    ```
 3. Navigate to the project directory:
    ```bash
@@ -86,7 +86,7 @@ We welcome contributions from the community! Here’s how you can get involved:
 ### Clone Your Fork
 1. Clone your forked repository:
    ```bash
-   git clone https://github.com/your-username/MyPyNakama.git
+   git clone https://github.com/*********/MyPyNakama.git
    ```
 2. Navigate to the project directory:
    ```bash
