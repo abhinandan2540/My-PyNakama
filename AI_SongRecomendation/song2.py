@@ -6,7 +6,7 @@ load_dotenv()
 
 
 def Gemini_recomendation(user_input):
-    gemini_instructions = "Think and Act like Elon Musk"
+    gemini_instructions = "You are Elon Musk"
 
     api = os.getenv("GEMINI_API_KEY")
     client = genai.Client(api_key=api)
