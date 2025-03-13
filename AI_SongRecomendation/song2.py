@@ -5,8 +5,8 @@ from dotenv import load_dotenv
 load_dotenv()
 
 
-def Gemini_song_recomendation(user_input):
-    gemini_instructions = "you are elon musk"
+def Gemini_recomendation(user_input):
+    gemini_instructions = "Think and Act like Elon Musk"
 
     api = os.getenv("GEMINI_API_KEY")
     client = genai.Client(api_key=api)
@@ -20,4 +20,4 @@ def Gemini_song_recomendation(user_input):
 
 
 user_input = input("Ask Query:")
-Gemini_song_recomendation(user_input=user_input)
+Gemini_recomendation(user_input=user_input)
