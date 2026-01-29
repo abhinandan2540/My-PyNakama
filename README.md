@@ -1,6 +1,6 @@
-# My PyNakama
+# PyNakama
 
-Welcome to **My PyNakama**, an open-source repository combining multiple projects and tools aimed at simplifying development and empowering the developer community. Whether you're a beginner looking to explore or an experienced developer aiming to contribute, My PyNakama has something for everyone!
+Welcome to **PyNakama**, an open-source repository combining multiple projects and tools aimed at simplifying development and empowering the developer community. Whether you're a beginner looking to explore or an experienced developer aiming to contribute, PyNakama has something for everyone!
 
 ---
 
@@ -14,8 +14,8 @@ Welcome to **My PyNakama**, an open-source repository combining multiple project
 
 ---
 
-## About the Project
-**My PyNakama** is a collection of diverse projects, tutorials, and tools built with Python and other technologies. It aims to:
+## About the Repo
+**PyNakama** is a collection of diverse projects, tutorials, and tools built with Python and other technologies. It aims to:
 
 - Provide reusable codebases for common use cases.
 - Help developers learn through hands-on examples.
@@ -45,7 +45,7 @@ Ensure you have the following installed:
 1. Open your terminal.
 2. Clone the repository using:
    ```bash
-   git clone https://github.com/**********/MyPyNakama.git
+   git clone https://github.com/**********/PyNakama.git
    ```
 3. Navigate to the project directory:
    ```bash
@@ -80,17 +80,17 @@ Each project is located in its own directory. Refer to the `README.md` in each f
 We welcome contributions from the community! Here’s how you can get involved:
 
 ### Fork the Repository
-1. Navigate to the [My PyNakama GitHub page](https://github.com/your-username/MyPyNakama).
+1. Navigate to the [My PyNakama GitHub page](https://github.com/your-username/PyNakama).
 2. Click the **Fork** button at the top right.
 
 ### Clone Your Fork
 1. Clone your forked repository:
    ```bash
-   git clone https://github.com/*********/MyPyNakama.git
+   git clone https://github.com/*********/PyNakama.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd MyPyNakama
+   cd PyNakama
    ```
 
 ### Create a Branch
